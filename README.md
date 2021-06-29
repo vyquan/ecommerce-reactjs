@@ -1,7 +1,9 @@
 # Start project
-
+#
 npm i
+#
 npm run start:server
+#
 npm start
 
 # Teacher
