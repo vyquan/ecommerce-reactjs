@@ -10,3 +10,5 @@ npm start
 Le Trong Dat
 # Author
 Vy Van Quan
+#Backend
+https://github.com/vyquan/NoteJs.git
